@@ -12,6 +12,7 @@ Functionalities Given:
 5. Storage of all chnages in DB in case of any failures so they should not loose any changes.
 6. Good Usage of websocket need to be there with session management.
 7. Functions of cloud sync like we will keep on doing autosave but it will sync between cloud without any data loss.
+8. Usage of Indexed DB to store all local data of users and as soon as this upload to cloud then it will clearly be deleted to maitain free space.
 
 Very Important.
 
