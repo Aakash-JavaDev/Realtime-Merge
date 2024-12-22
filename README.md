@@ -27,6 +27,7 @@ Websocket + Vanilla JS + Code Mirror , Monanco Code Editor + Database + CRDT + A
 Limits--
 
 Restirct number of active users working on same file i.e 15 users or 20 users per file.
+Might need to restrcit cache upload if there is more size then we need to complete concept of multipart upload.
 
 Questions--
 
