@@ -1,0 +1,11 @@
+# Developer Readme (To Post all developer level questions)
+
+1. For this project how database structure need to be designed, which DB we are going for SQL or NOSQL (70%)
+2. How data sync should be maintained between the cloud and system.
+3. Concept of seamless communication with payload as in websocket.
+4. Maintaning list of active users it should update without any lag.
+5. NO UI issues will be there.
+6. Feature of chatting between persons should be flawless and intelligent like if there is merge conflict with persons then on click of button it will send meessage which person can edit it.
+
+
+## If there is any more questions related to implementation feel free to write them here.
